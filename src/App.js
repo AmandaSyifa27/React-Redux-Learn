@@ -6,8 +6,8 @@ import Counter from "./components/Counter";
 function App() {
   return (
     <div className="App">
-      <h1>haii</h1>
-      <em>kalo bisa bikin ecomers</em>
+      <h1>Haii</h1>
+      <em>Latihan React Redux</em>
       <br/>
       <br/>
       <Counter />
