@@ -1,6 +1,7 @@
 import BarChart from "./components/chartsDemo.js/BarChart";
 import LineGraph from "./components/chartsDemo.js/LineGraph";
 import PieChart from "./components/chartsDemo.js/PieChart";
+import React from "react";
 import Counter from "./components/Counter";
 
 function App() {
